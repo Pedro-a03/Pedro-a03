@@ -19,7 +19,7 @@ QA Engineer with **15+ years of quality experience**, transitioning into Softwar
 
 - 🎯 Targeting: QA Engineering & Compliance roles in Pharma/Medical Devices
 - 📍 Based in Munich, Germany
-- 🌐 German: B1
+- 🌐 Spanish: Native  |  English: C1  |  German: B1
 - 🎓 ASQ-CQE · ASQ-CQA certified
 - 🔬 Focusing on: FDA 21 CFR Part 11 · EU MDR · ISO 25010 · ISO 13485
 - 📚 Also completing: **ReDI School — Introduction to Code, Data & Design** (Munich) · HTML/CSS · Python · Data Analytics · UX Design
@@ -56,7 +56,7 @@ QA Engineer with **15+ years of quality experience**, transitioning into Softwar
 
 ## 🚀 Projects
 
-### 🧪 Project 08 — Test Automation: Urban Grocers API
+### 🧪 Project 07 — Test Automation: Urban Grocers API
 > **Python · pytest · REST API · Boundary Value Analysis**
 
 Automated 9 test cases for the `name` field in the kit creation endpoint of Urban Grocers app. Applied boundary value analysis and equivalence partitioning. Identified 4 real bugs where the API accepted invalid inputs.
@@ -65,42 +65,42 @@ Automated 9 test cases for the `name` field in the kit creation endpoint of Urba
 
 ---
 
-### 🗄️ Project 07 — Database Fundamentals
+### 🗄️ Project 06 — Database Fundamentals
 > **SQL · PostgreSQL · CLI · Bash**
 
 Designed and executed SQL queries for data validation in a QA context. Practiced complex joins, aggregations, and data integrity checks using PostgreSQL via command line.
 
 ---
 
-### 📱 Project 06 — Mobile Application Testing
+### 📱 Project 05 — Mobile Application Testing
 > **Android · iOS · Charles Proxy · Bug Reporting**
 
 Performed functional and cross-platform testing of mobile applications. Executed test cases on Android and iOS environments, captured network traffic, and documented defects with full reproducibility steps.
 
 ---
 
-### 🌐 Project 05 — API Testing with Postman
+### 🌐 Project 04 — API Testing with Postman
 > **REST API · Postman · HTTP Methods · JSON**
 
 Tested GET, POST, PUT, and DELETE endpoints of the Urban Grocers API. Created collections, validated response codes and body fields, and documented defects.
 
 ---
 
-### 🖥️ Project 04 — Web Application Testing
+### 🖥️ Project 03 — Web Application Testing
 > **Cross-browser Testing · Chrome DevTools · Layout Validation**
 
 Executed functional and visual regression tests on Urban Routes web app. Used Chrome DevTools to validate responsive layouts and identify UI defects.
 
 ---
 
-### 📋 Project 03 — Test Design & Bug Reporting
+### 📋 Project 02 — Test Design & Bug Reporting
 > **Test Cases · Checklists · Jira · Mind Maps**
 
 Designed structured test cases and checklists using equivalence partitioning and boundary value analysis. Reported and tracked bugs in Jira with full documentation.
 
 ---
 
-### 📐 Project 02 — Requirements Analysis
+### 📐 Project 01 — Requirements Analysis
 > **Test Analysis · Requirement Review · Test Planning**
 
 Analyzed functional requirements, identified ambiguities, and created test plans aligned with business objectives.
