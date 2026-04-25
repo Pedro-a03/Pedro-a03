@@ -15,13 +15,13 @@
 
 ## 👋 About Me
 
-QA Engineer with **10+ years of quality experience**, transitioning into Software QA and Test Automation with a focus on **Pharma / Medical Devices** in Munich. Currently completing the **TripleTen QA Engineering Bootcamp** while building expertise in regulatory compliance testing.
+QA Engineer with **15+ years of quality experience**, transitioning into Software QA and Test Automation with a focus on **Pharma / Medical Devices** in Munich. Currently completing the **TripleTen QA Engineering Bootcamp** while building expertise in regulatory compliance testing.
 
 - 🎯 Targeting: QA Engineering & Compliance roles in Pharma/Medical Devices
 - 📍 Based in Munich, Germany
 - 🌐 German: B1
 - 🎓 ASQ-CQE · ASQ-CQA certified
-- 🔬 Focusing on: FDA 21 CFR Part 11 · EU MDR · ISO 25010
+- 🔬 Focusing on: FDA 21 CFR Part 11 · EU MDR · ISO 25010 · ISO 13485
 - 📚 Also completing: **ReDI School — Introduction to Code, Data & Design** (Munich) · HTML/CSS · Python · Data Analytics · UX Design
 
 ---
@@ -49,6 +49,7 @@ QA Engineer with **10+ years of quality experience**, transitioning into Softwar
 ### Compliance & Regulatory
 ![FDA 21 CFR Part 11](https://img.shields.io/badge/FDA_21_CFR_Part_11-C62828?style=flat-square)
 ![EU MDR](https://img.shields.io/badge/EU_MDR-1565C0?style=flat-square)
+![ISO 13485](https://img.shields.io/badge/ISO_13485-6A1B9A?style=flat-square)
 ![ISO 25010](https://img.shields.io/badge/ISO_25010-2E7D32?style=flat-square)
 ![GDPR](https://img.shields.io/badge/GDPR-37474F?style=flat-square)
 
@@ -56,7 +57,7 @@ QA Engineer with **10+ years of quality experience**, transitioning into Softwar
 
 ## 🚀 Projects
 
-### 🧪 Sprint 8 — Test Automation: Urban Grocers API
+### 🧪 Project 08 — Test Automation: Urban Grocers API
 > **Python · pytest · REST API · Boundary Value Analysis**
 
 Automated 9 test cases for the `name` field in the kit creation endpoint of Urban Grocers app. Applied boundary value analysis and equivalence partitioning. Identified 4 real bugs where the API accepted invalid inputs.
@@ -65,42 +66,42 @@ Automated 9 test cases for the `name` field in the kit creation endpoint of Urba
 
 ---
 
-### 🗄️ Sprint 7 — Database Fundamentals
+### 🗄️ Project 07 — Database Fundamentals
 > **SQL · PostgreSQL · CLI · Bash**
 
 Designed and executed SQL queries for data validation in a QA context. Practiced complex joins, aggregations, and data integrity checks using PostgreSQL via command line.
 
 ---
 
-### 📱 Sprint 6 — Mobile Application Testing
+### 📱 Project 06 — Mobile Application Testing
 > **Android · iOS · Charles Proxy · Bug Reporting**
 
 Performed functional and cross-platform testing of mobile applications. Executed test cases on Android and iOS environments, captured network traffic, and documented defects with full reproducibility steps.
 
 ---
 
-### 🌐 Sprint 5 — API Testing with Postman
+### 🌐 Project 05 — API Testing with Postman
 > **REST API · Postman · HTTP Methods · JSON**
 
 Tested GET, POST, PUT, and DELETE endpoints of the Urban Grocers API. Created collections, validated response codes and body fields, and documented defects.
 
 ---
 
-### 🖥️ Sprint 4 — Web Application Testing
+### 🖥️ Project 04 — Web Application Testing
 > **Cross-browser Testing · Chrome DevTools · Layout Validation**
 
 Executed functional and visual regression tests on Urban Routes web app. Used Chrome DevTools to validate responsive layouts and identify UI defects.
 
 ---
 
-### 📋 Sprint 3 — Test Design & Bug Reporting
+### 📋 Project 03 — Test Design & Bug Reporting
 > **Test Cases · Checklists · Jira · Mind Maps**
 
 Designed structured test cases and checklists using equivalence partitioning and boundary value analysis. Reported and tracked bugs in Jira with full documentation.
 
 ---
 
-### 📐 Sprint 2 — Requirements Analysis
+### 📐 Project 02 — Requirements Analysis
 > **Test Analysis · Requirement Review · Test Planning**
 
 Analyzed functional requirements, identified ambiguities, and created test plans aligned with business objectives.
