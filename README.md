@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 ![Banner](https://raw.githubusercontent.com/Pedro-a03/Pedro-a03/main/banner.jpg)
 
