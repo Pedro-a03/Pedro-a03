@@ -44,7 +44,6 @@ QA Engineer with **15+ years of quality experience**, transitioning into Softwar
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Compliance & Regulatory
 ![FDA 21 CFR Part 11](https://img.shields.io/badge/FDA_21_CFR_Part_11-C62828?style=flat-square)
