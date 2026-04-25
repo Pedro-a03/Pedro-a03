@@ -84,8 +84,6 @@ Performed functional and cross-platform testing of mobile applications. Executed
 
 Tested GET, POST, PUT, and DELETE endpoints of the Urban Grocers API. Created collections, validated response codes and body fields, and documented defects.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-a03/qa-project-Urban-Grocers-app-es)
-
 ---
 
 ### 🖥️ Sprint 4 — Web Application Testing
@@ -109,6 +107,10 @@ Analyzed functional requirements, identified ambiguities, and created test plans
 
 ---
 
+> 💡 More projects available in my [Notion Portfolio](https://www.notion.so/Pedro-Acosta-Software-QA-Engineer-30de7a2409d0802b8d1dfc2da0e10739)
+
+---
+
 ## 🏆 Certifications
 
 | Certification | Issuer | Status |
@@ -118,7 +120,9 @@ Analyzed functional requirements, identified ambiguities, and created test plans
 | Postman API Student Expert | Postman | ✅ Active |
 | Scrum Fundamentals Certified | ScrumStudy | ✅ Active |
 | ISO 25010 | Alison | ✅ Active |
+| Data Science - Intermediate Level | INDOTEL / BID / Cymetria | ✅ Active |
 | QA Engineering Bootcamp | TripleTen | 🔄 In Progress |
+| Intro to Code, Data & Design | ReDI School Munich | 🔄 In Progress |
 
 ---
 
