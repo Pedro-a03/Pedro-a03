@@ -103,7 +103,7 @@ Structured test design using equivalence partitioning and BVA. Produced mind map
 ### 📐 Project 01 — Urban Routes: Map & UI Functional Testing
 > **Test Cases · Bug Reports · Functional Testing · UI Testing**
 
-Functional testing of the Urban Routes map interface covering navigation, zoom, display modes, address pins, and interactive elements. Executed 24 test cases and identified 7 defects, including 2 critical bugs.
+Functional testing of the Urban Routes map interface covering navigation, zoom, display modes, address pins, and interactive elements. Executed 24 test cases and identified 7 defects including 2 critical bugs.
 
 ---
 
