@@ -15,9 +15,9 @@
 
 ## 👋 About Me
 
-QA Engineer with **15+ years of quality experience**, transitioning into Software QA and Test Automation with a focus on **Pharma / Medical Devices** in Munich. Currently completing the **TripleTen QA Engineering Bootcamp** while building expertise in regulatory compliance testing.
+QA Engineer with **15+ years of quality experience**, transitioning into Software QA and Test Automation with a focus on **regulated industries** in Munich. Currently completing the **TripleTen QA Engineering Bootcamp** while building expertise in regulatory compliance testing.
 
-- 🎯 Targeting: QA Engineering & Compliance roles in Pharma/Medical Devices
+- 🎯 Targeting: QA Engineering & Compliance roles in regulated industries
 - 📍 Based in Munich, Germany
 - 🌐 Spanish: Native  |  English: C1  |  German: B1
 - 🎓 ASQ-CQE · ASQ-CQA certified
@@ -56,54 +56,54 @@ QA Engineer with **15+ years of quality experience**, transitioning into Softwar
 
 ## 🚀 Projects
 
-### 🧪 Project 07 — Test Automation: Urban Grocers API
-> **Python · pytest · REST API · Boundary Value Analysis**
+### 🧪 Project 07 — Urban Grocers API: Test Automation (Python/pytest)
+> **Python · pytest · REST API · BVA · GitHub**
 
-Automated 9 test cases for the `name` field in the kit creation endpoint of Urban Grocers app. Applied boundary value analysis and equivalence partitioning. Identified 4 real bugs where the API accepted invalid inputs.
+Designed and implemented an automated test suite validating the `name` field in the Urban Grocers kit creation endpoint. Automated 9 test cases using BVA and equivalence partitioning. Identified 4 real bugs where the API accepted invalid inputs.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-a03/qa-project-Urban-Grocers-app-es)
 
 ---
 
-### 🗄️ Project 06 — Database Fundamentals
-> **SQL · PostgreSQL · CLI · Bash**
+### 🗄️ Project 06 — CLI & Database Fundamentals for QA
+> **SQL · PostgreSQL · CLI · Bash · grep · Data Validation**
 
-Designed and executed SQL queries for data validation in a QA context. Practiced complex joins, aggregations, and data integrity checks using PostgreSQL via command line.
-
----
-
-### 📱 Project 05 — Mobile Application Testing
-> **Android · iOS · Charles Proxy · Bug Reporting**
-
-Performed functional and cross-platform testing of mobile applications. Executed test cases on Android and iOS environments, captured network traffic, and documented defects with full reproducibility steps.
+Applied CLI skills and SQL query design in a QA context to filter server logs, extract HTTP error patterns, and validate relational database data. Queried 5,500+ vehicle records using GROUP BY, HAVING, CASE WHEN, and JOIN operations.
 
 ---
 
-### 🌐 Project 04 — API Testing with Postman
-> **REST API · Postman · HTTP Methods · JSON**
+### 📱 Project 05 — Urban Lunch: Mobile Application Testing
+> **Android · Mobile Testing · UI/UX Validation · Checklist · Bug Report**
 
-Tested GET, POST, PUT, and DELETE endpoints of the Urban Grocers API. Created collections, validated response codes and body fields, and documented defects.
-
----
-
-### 🖥️ Project 03 — Web Application Testing
-> **Cross-browser Testing · Chrome DevTools · Layout Validation**
-
-Executed functional and visual regression tests on Urban Routes web app. Used Chrome DevTools to validate responsive layouts and identify UI defects.
+Functional and UI testing of the Urban Lunch mobile app on Android covering the full order flow: pickup selection, dish ordering, confirmation, tracking, and completion. Executed 32 test cases and identified 10 defects.
 
 ---
 
-### 📋 Project 02 — Test Design & Bug Reporting
-> **Test Cases · Checklists · Jira · Mind Maps**
+### 🌐 Project 04 — Urban Grocery: API Backend Testing (Postman)
+> **Postman · REST API · JSON · BVA · JIRA**
 
-Designed structured test cases and checklists using equivalence partitioning and boundary value analysis. Reported and tracked bugs in Jira with full documentation.
+Comprehensive API testing of kit management and delivery calculation endpoints. Executed 40+ test cases applying BVA. Identified 27 defects where the API accepted invalid inputs without proper error handling.
 
 ---
 
-### 📐 Project 01 — Requirements Analysis
-> **Test Analysis · Requirement Review · Test Planning**
+### 🖥️ Project 03 — Urban Routes: Web UI & Functional Testing
+> **Cross-Browser Testing · UI/UX · JIRA · Figma · BVA**
 
-Analyzed functional requirements, identified ambiguities, and created test plans aligned with business objectives.
+Comprehensive quality assessment of Urban Routes web app covering UI/UX design compliance, payment flows, booking logic, and rental functionality across Chrome and Firefox. All defects reported in JIRA.
+
+---
+
+### 📋 Project 02 — Urban Routes: Test Design & Equivalence Classes
+> **Equivalence Partitioning · BVA · Mind Maps · Flowcharts · Test Cases**
+
+Structured test design using equivalence partitioning and BVA. Produced mind maps, flowcharts, equivalence class tables, and interface logic test cases for the Urban Routes booking interface.
+
+---
+
+### 📐 Project 01 — Urban Routes: Map & UI Functional Testing
+> **Test Cases · Bug Reports · Functional Testing · UI Testing**
+
+Functional testing of the Urban Routes map interface covering navigation, zoom, display modes, address pins, and interactive elements. Executed 24 test cases and identified 7 defects, including 2 critical bugs.
 
 ---
 
