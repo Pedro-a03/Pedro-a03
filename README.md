@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/Pedro-a03/Pedro-a03/main/banner.jpg)
+![Banner](https://raw.githubusercontent.com/Pedro-a03/Pedro-a03/main/banner.png)
 
 # Pedro Acosta
 ### Software QA Engineer · Expert in Manual Testing, API Testing & Automation Testing
