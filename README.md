@@ -32,16 +32,21 @@ I am a Senior Quality Professional with **15+ years of quality experience**, tra
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-005C84?style=flat-square)
 ![API Testing](https://img.shields.io/badge/API_Testing-009688?style=flat-square)
 ![Test Automation](https://img.shields.io/badge/Test_Automation-FF6B35?style=flat-square)
+![UI Automation](https://img.shields.io/badge/UI_Automation-E34C26?style=flat-square)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-1E3A8A?style=flat-square)
 ![Mobile Testing](https://img.shields.io/badge/Mobile_Testing-5C6BC0?style=flat-square)
 ![Regression Testing](https://img.shields.io/badge/Regression_Testing-26A69A?style=flat-square)
 
 ### Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
 
@@ -55,6 +60,15 @@ I am a Senior Quality Professional with **15+ years of quality experience**, tra
 ---
 
 ## 🚀 Projects
+
+### 🚖 Project 08 - Urban Routes: Web UI Test Automation (Selenium/Python)
+> **Python · Selenium WebDriver · pytest · Page Object Model · Chrome DevTools Protocol**
+
+Automated 9 end-to-end test cases covering the complete taxi-ordering flow on Urban Routes web app. Implemented POM architecture across 3 files, intercepted SMS confirmation codes via Chrome DevTools Protocol, and applied 4 locator strategies. Resolved Selenium 3.x / Chrome 147 compatibility through migration to Selenium 4 W3C capabilities.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-a03/qa-project-Urban-Routes-es)
+
+---
 
 ### 🧪 Project 07 - Urban Grocers API: Test Automation (Python/pytest)
 > **Python · pytest · REST API · BVA · GitHub**
