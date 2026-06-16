@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I am a Senior Quality Professional with **15+ years of quality experience**, transitioning into Software QA, Manual Testing, API Testing, and Test Automation with a focus on **regulated industries** in Munich. Currently completing the **TripleTen QA Engineering Bootcamp** while building expertise in regulatory compliance testing.
+I am a Senior Quality Professional with **15+ years of quality experience**, transitioning into Software QA, Manual Testing, API Testing, and Test Automation with a focus on **regulated industries** in Munich. I completed the **TripleTen QA Engineering Bootcamp**, building hands-on expertise across web, mobile, API, and database testing, while continuing to build expertise in regulatory compliance testing.
 
 - 🎯 Targeting: QA Engineering & Compliance roles in regulated industries
 - 📍 Based in Munich, Germany
@@ -49,6 +49,7 @@ I am a Senior Quality Professional with **15+ years of quality experience**, tra
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Compliance & Regulatory
 ![FDA 21 CFR Part 11](https://img.shields.io/badge/FDA_21_CFR_Part_11-C62828?style=flat-square)
@@ -60,6 +61,15 @@ I am a Senior Quality Professional with **15+ years of quality experience**, tra
 ---
 
 ## 🚀 Projects
+
+### 🛴 Project 09 — QA Final Project: Urban Scooter (Web, Mobile, API & Database)
+**Stack:** Manual Testing · BVA · Equivalence Partitioning · Postman · PostgreSQL · Jira
+
+End-to-end QA capstone covering web, mobile, API, and database testing for a scooter delivery platform. Designed BVA/equivalence test cases for an 8-field web form, executed 31 mobile test cases for push notifications and offline behavior, and built a 4-endpoint API checklist with direct PostgreSQL verification. Identified 48 bugs in Jira, including a root-cause notification failure traced through 9 blocked test cases.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-a03/QA-Final_Project-Urban_Scooter)
+
+---
 
 ### 🚖 Project 08 - Urban Routes: Web UI Test Automation (Selenium/Python)
 > **Python · Selenium WebDriver · pytest · Page Object Model · Chrome DevTools Protocol**
