@@ -145,7 +145,7 @@ Functional testing of the Urban Routes map interface covering navigation, zoom, 
 | Scrum Fundamentals Certified | ScrumStudy | ✅ Active |
 | ISO 25010 | Alison | ✅ Active |
 | Data Science - Intermediate Level | INDOTEL / BID / Cymetria | ✅ Active |
-| QA Engineering Bootcamp | TripleTen | 🔄 In Progress |
+| QA Engineering Bootcamp | TripleTen | ✅ Active |
 | Intro to Code, Data & Design | ReDI School Munich | 🔄 In Progress |
 
 ---
