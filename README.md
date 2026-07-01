@@ -22,7 +22,7 @@ I am a Senior Quality Professional with **15+ years of quality experience**, tra
 - 🌐 Spanish: Native  |  English: C1  |  German: B1
 - 🎓 ASQ-CQE · ASQ-CQA certified
 - 🔬 Focusing on: FDA 21 CFR Part 11 · EU MDR · ISO 25010 · ISO 13485
-- 📚 Also completing: **ReDI School - Introduction to Code, Data & Design** (Munich) · HTML/CSS · Python · Data Analytics · UX Design
+- 📚 Completed: **ReDI School of Digital Integration - Introduction to Code, Data & Design** (Munich) · HTML/CSS · Python · Data Analytics · UX Design
 
 ---
 
@@ -61,6 +61,21 @@ I am a Senior Quality Professional with **15+ years of quality experience**, tra
 ---
 
 ## 🚀 Projects
+
+### ⚙️ Project 10 — QualityHub eQMS: API Automation + CI/CD Pipeline *(Career Accelerator)*
+> **Python · pytest · GitHub Actions · CI/CD · ISO 13485 · EU MDR · FDA 21 CFR Part 11**
+
+Senior-level QA project combining a formal Test Plan aligned with regulated industry standards (ISO 13485, EU MDR, IEC 62304, FDA 21 CFR Part 11) with 25 automated API tests and a live CI/CD pipeline via GitHub Actions. Every test case is mapped to its corresponding regulatory clause — the same traceability standard required in medical device software validation.
+
+- 11 tests: CAPA management (ISO 13485 §8.5.2)
+- 8 tests: Audit trail integrity (EU MDR Art. 10(9) · FDA 21 CFR Part 11)
+- 6 tests: Document control & user attribution (ISO 13485 §4.2 · FDA 21 CFR Part 11.10(i))
+- CI/CD pipeline: 25 tests passing on every push to `main`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedro-a03/regulated-software-qa-project)
+![CI](https://github.com/Pedro-a03/regulated-software-qa-project/actions/workflows/qa-tests.yml/badge.svg)
+
+---
 
 ### 🛴 Project 09 — QA Final Project: Urban Scooter (Web, Mobile, API & Database)
 **Stack:** Manual Testing · BVA · Equivalence Partitioning · Postman · PostgreSQL · Jira
@@ -146,7 +161,7 @@ Functional testing of the Urban Routes map interface covering navigation, zoom, 
 | ISO 25010 | Alison | ✅ Active |
 | Data Science - Intermediate Level | INDOTEL / BID / Cymetria | ✅ Active |
 | QA Engineering Bootcamp | TripleTen | ✅ Active |
-| Intro to Code, Data & Design | ReDI School Munich | 🔄 In Progress |
+| Intro to Code, Data & Design | ReDI School of Digital Integration | ✅ Active |
 
 ---
 
